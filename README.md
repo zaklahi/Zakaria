@@ -1,5 +1,5 @@
 # Zakaria
-<h1 align="center">git commit -m "Hi 👋, I'm Zak"</h1>
+<h1 align="center">"Hi 👋, I'm Zak"</h1>
 <h3 align="center">A passionate Full Stack Engineer from Minnesota</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaklahi" alt="zaklahi" /></a> </p>
